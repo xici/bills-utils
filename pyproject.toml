@@ -1,0 +1,13 @@
+[project]
+name = "bills-utils"
+version = "1.0"
+description = "微信和支付宝导出的账单处理工具"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "pdfplumber>=0.11.9",
+    "seaborn>=0.13.2",
+]
