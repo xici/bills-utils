@@ -34,8 +34,8 @@ python utils-file.py # [args...]
 ## 致谢
 
 - [Gitee:tangx_666/wechat-bills](https://gitee.com/tangx_666/wechat-bills): 提供微信账单 PDF 转换为 Excel 的基础的核心逻辑。
-- [DeepSeek](https://www.deepseek.com): 帮助重构程序。
-- [Cline](https://github.com/cline/cline): 帮助重构程序。
+- [DeepSeek](https://www.deepseek.com): 帮助重构和编写程序。
+- [Cline](https://github.com/cline/cline): 帮助重构和编写程序。
 
 ## LICENSE
 
